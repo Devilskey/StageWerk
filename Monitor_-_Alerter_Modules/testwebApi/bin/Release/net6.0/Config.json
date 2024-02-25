@@ -1,0 +1,28 @@
+{
+  "ErrorAlert": {
+    "trace": {
+      "Alerter1": "Slack"
+    },
+    "Debug": {
+      "Alerter1": "Slack"
+    },
+    "Information": {
+      "Alerter1": "Slack",
+      "Alerter2": "Teams"
+    },
+    "Warning": {
+      "Alerter1": "Slack",
+      "Alerter2": "Teams"
+    },
+    "Error": {
+      "Alerter1": "Slack",
+      "Alerter2": "Teams",
+      "Alerter3": "Email"
+    },
+    "Critical": {
+      "Alerter1": "Slack",
+      "Alerter2": "Teams",
+      "Alerter3": "Email"
+    }
+  }
+}

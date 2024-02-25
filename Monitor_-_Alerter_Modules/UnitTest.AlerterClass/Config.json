@@ -1,0 +1,22 @@
+{
+  "useImages": true,
+  "MessageImages": {
+    "Trace": "https://www.101computing.net/wp/wp-content/uploads/trace-table.png",
+    "Debug": "https://keluro.com/images/Blog/Debug.jpg",
+    "Information": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Info_icon_002.svg/2048px-Info_icon_002.svg.png",
+    "Warning": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/1200px-Warning.svg.png",
+    "Error": "https://miro.medium.com/max/1400/0*ytANIwmqNBf56XMN",
+    "Critical": "https://previews.123rf.com/images/drawnkeeper/drawnkeeper2001/drawnkeeper200100001/138241499-critical-error-system-message-on-blue-screen.jpg",
+    "none": "https://cafuego.net/sites/cafuego.net/files/error-no-error.png"
+  },
+  "useColors": true,
+  "Loglevelcolor": {
+    "Trace": "#a1a1a1",
+    "Debug": "#aad66b",
+    "Information": "#51c2b5",
+    "Warning": "#ffc83d",
+    "Error": "#ff0000",
+    "Critical": "#c20000",
+    "none": "##111640"
+  }
+}

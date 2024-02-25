@@ -1,0 +1,40 @@
+﻿{
+  "@type": "MessageCard",
+  "themeColor": "#c20000",
+  "@context": "http://schema.org/extensions",
+  "sections": [
+    {
+      "activityTitle": "This is a unit test ",
+      "activitySubtitle": "This is a unit test for Teams JSON templates.",
+      "activityImage": "https://previews.123rf.com/images/drawnkeeper/drawnkeeper2001/drawnkeeper200100001/138241499-critical-error-system-message-on-blue-screen.jpg",
+      "facts": [
+        {
+          "name": "ThrowAt: ",
+          "value": "placeholder for testing"
+        },
+        {
+          "name": "Url: ",
+          "value": "localhost/UnitTest"
+        },
+        {
+          "name": "ExceptionType: ",
+          "value": "Unit test"
+        },
+        {
+          "name": "Loglevel: ",
+          "value": "Critical"
+        },
+        {
+          "name": "Source: ",
+          "value": "Unit test Slack"
+        },
+        {
+          "name": "Platform: ",
+          "value": "Visual Studio"
+        }
+      ],
+      "markdown": true
+    }
+  ],
+  "summary": "This is a unit test "
+}

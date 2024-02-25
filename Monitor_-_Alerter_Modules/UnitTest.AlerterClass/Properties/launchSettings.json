@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "UnitTest.AlerterClass": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "WebhookTeams": "https://kembit2.webhook.office.com/webhookb2/3a554fa1-3008-4d28-80b3-686b9d6d4416@6c24ad85-30f2-4a87-a38d-2badefa58487/IncomingWebhook/c45bab5680684eae8452b92ae61f1bec/f25821a0-113d-40e6-8913-150520f4f627",
+        "WebhookSlack": "https://hooks.slack.com/services/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",
+        "Email": "MonitoringNoReply@devilskey.eu",
+        "Password": "LvTn99RYB",
+        "Smtp": "webreus.email"
+      }
+    }
+  }
+}

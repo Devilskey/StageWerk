@@ -1,0 +1,82 @@
+﻿{
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "##Messagelong##"
+      }
+    },
+    {
+      "type": "section",
+      "fields": [
+        {
+          "type": "mrkdwn",
+          "text": "varName"
+        },
+        {
+          "type": "mrkdwn",
+          "text": "Info"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "fields": [
+        {
+          "type": "plain_text",
+          "text": "TimeThrown"
+        },
+        {
+          "type": "plain_text",
+          "text": "##TimeThrown##"
+        },
+        {
+          "type": "plain_text",
+          "text": "TimeThrown"
+        },
+        {
+          "type": "plain_text",
+          "text": "##Loglevel##"
+        },
+        {
+          "type": "plain_text",
+          "text": "Url"
+        },
+        {
+          "type": "plain_text",
+          "text": "##Url##"
+        },
+        {
+          "type": "plain_text",
+          "text": "Message"
+        },
+        {
+          "type": "plain_text",
+          "text": "##Message##"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "fields": [
+        {
+          "type": "plain_text",
+          "text": "ExceptionType"
+        },
+        {
+          "type": "plain_text",
+          "text": "##ExceptionType##"
+        },
+        {
+          "type": "plain_text",
+          "text": "Source"
+        },
+        {
+          "type": "plain_text",
+          "text": "##Source##"
+        }
+      ]
+    }
+  ]
+}

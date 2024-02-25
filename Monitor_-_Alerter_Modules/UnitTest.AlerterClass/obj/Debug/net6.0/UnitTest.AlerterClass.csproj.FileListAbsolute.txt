@@ -1,0 +1,250 @@
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\testhost.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\testhost.exe
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.deps.json
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.runtimeconfig.json
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.pdb
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\alerterTestLib.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\alerterTestLib.pdb
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.csproj.AssemblyReference.cache
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.AssemblyInfoInputs.cache
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.AssemblyInfo.cs
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.csproj.CopyComplete
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\refint\UnitTest.AlerterClass.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.pdb
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.genruntimeconfig.cache
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\ref\UnitTest.AlerterClass.dll
+C:\Debug\net6.0\CoverletSourceRootsMapping
+C:\Debug\net6.0\testhost.dll
+C:\Debug\net6.0\testhost.exe
+C:\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Debug\net6.0\Templates\MailTemplate.html
+C:\Debug\net6.0\Templates\SlackTemplate.json
+C:\Debug\net6.0\Templates\TeamsTemplate.json
+C:\Debug\net6.0\UnitTest.AlerterClass.deps.json
+C:\Debug\net6.0\UnitTest.AlerterClass.runtimeconfig.json
+C:\Debug\net6.0\UnitTest.AlerterClass.dll
+C:\Debug\net6.0\UnitTest.AlerterClass.pdb
+C:\Debug\net6.0\bin\Debug\net6.0\Templates\MailTemplate.html
+C:\Debug\net6.0\bin\Debug\net6.0\Templates\SlackTemplate.json
+C:\Debug\net6.0\bin\Debug\net6.0\Templates\TeamsTemplate.json
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\testhost.exe
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\testhost.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.deps.json
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.runtimeconfig.json
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\UnitTest.AlerterClass.pdb
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\alerterTestLib.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\alerterTestLib.pdb
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.csproj.AssemblyReference.cache
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.AssemblyInfoInputs.cache
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.AssemblyInfo.cs
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.csproj.CoreCompileInputs.cache
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.csproj.CopyComplete
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\refint\UnitTest.AlerterClass.dll
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.pdb
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\UnitTest.AlerterClass.genruntimeconfig.cache
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\obj\Debug\net6.0\ref\UnitTest.AlerterClass.dll
+C:\Users\bhendriks\source\repos\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Config.json
+C:\Users\rveltrop\OneDrive - KEMBIT\Documenten\webhook\UnitTest.AlerterClass\bin\Debug\net6.0\Config.json

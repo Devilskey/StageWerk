@@ -1,0 +1,43 @@
+{
+  "profiles": {
+    "testwebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Smtp": "webreus.email",
+        "Email": "MonitoringNoReply@devilskey.eu",
+        "Password": "LvTn99RYB",
+        "SlackWebhookUrl": "https://hooks.slack.com/services/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",
+        "TeamsWebhookUrl": "https://kembit2.webhook.office.com/webhookb2/3a554fa1-3008-4d28-80b3-686b9d6d4416@6c24ad85-30f2-4a87-a38d-2badefa58487/IncomingWebhook/c45bab5680684eae8452b92ae61f1bec/f25821a0-113d-40e6-8913-150520f4f627"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7088;http://localhost:5088"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:20114",
+      "sslPort": 44329
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\bin\Release\net6.0\Templates\MailTemplate.html
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\bin\Release\net6.0\Templates\TeamsTemplate.json
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\bin\Release\net6.0\Templates\SlackTemplate.json
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\bin\Release\net6.0\alerterTestLib.deps.json
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\bin\Release\net6.0\alerterTestLib.dll
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\bin\Release\net6.0\alerterTestLib.pdb
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.csproj.AssemblyReference.cache
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.Properties.Resources.resources
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.csproj.GenerateResource.cache
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.AssemblyInfoInputs.cache
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.AssemblyInfo.cs
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.dll
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\refint\alerterTestLib.dll
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\alerterTestLib.pdb
+C:\Users\bhendriks\source\repos\webhook\alerterTestLib\obj\Release\net6.0\ref\alerterTestLib.dll

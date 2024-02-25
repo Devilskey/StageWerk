@@ -1,0 +1,39 @@
+﻿{
+  "@type": "MessageCard",
+  "themeColor": "##Color##",
+  "@context": "http://schema.org/extensions",
+  "sections": [
+    {
+      "activityTitle": "##ShortMessage##",
+      "activitySubtitle": "##LongMessage##",
+      "activityImage": "##Image##",
+      "facts": [
+        {
+          "name": "ThrowAt: ",
+          "value": "placeholder for testing"
+        },
+        {
+          "name": "Url: ",
+          "value": "##Url##"
+        },
+        {
+          "name": "ExceptionType: ",
+          "value": "##ExceptionType##"
+        },
+        {
+          "name": "Loglevel: ",
+          "value": "##Loglevel##"
+        },
+        {
+          "name": "Source: ",
+          "value": "##Source##"
+        },
+        {
+          "name": "Platform: ",
+          "value": "##Platform##"
+        }
+      ],
+      "markdown": true
+    }
+  ]
+}
