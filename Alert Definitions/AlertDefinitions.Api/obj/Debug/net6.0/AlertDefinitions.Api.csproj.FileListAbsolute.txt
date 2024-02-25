@@ -1,0 +1,327 @@
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.exe
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.deps.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.runtimeconfig.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.AssemblyReference.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.AssemblyInfoInputs.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.AssemblyInfo.cs
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\scopedcss\bundle\AlertDefinitions.Api.styles.css
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.CopyComplete
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\refint\AlertDefinitions.Api.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.genruntimeconfig.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\obj\Debug\net6.0\ref\AlertDefinitions.Api.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\serilog.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\serilog.Development.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Repositories.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Repositories.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Models.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Models.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Api\bin\Debug\net6.0\logs\Definitions.Development20230516.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\serilog.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.exe
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.deps.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.runtimeconfig.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Models.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Repositories.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Repositories.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Models.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.AssemblyReference.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.AssemblyInfoInputs.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.AssemblyInfo.cs
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.CoreCompileInputs.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets\msbuild.AlertDefinitions.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.AlertDefinitions.Api.props
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AlertDefinitions.Api.props
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AlertDefinitions.Api.props
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\scopedcss\bundle\AlertDefinitions.Api.styles.css
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.CopyComplete
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\refint\AlertDefinitions.Api.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.genruntimeconfig.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\ref\AlertDefinitions.Api.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\GitVersionInformation.g.cs
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AssemblyInfo.g.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\serilog.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.exe
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.deps.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.runtimeconfig.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Api.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Models.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Repositories.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Repositories.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\bin\Debug\net6.0\AlertDefinitions.Models.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.AssemblyReference.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\GitVersionInformation.g.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AssemblyInfo.g.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.AssemblyInfoInputs.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.AssemblyInfo.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\scopedcss\bundle\AlertDefinitions.Api.styles.css
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.csproj.CopyComplete
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\refint\AlertDefinitions.Api.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\AlertDefinitions.Api.genruntimeconfig.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Api\obj\Debug\net6.0\ref\AlertDefinitions.Api.dll

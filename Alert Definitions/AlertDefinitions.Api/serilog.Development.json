@@ -1,0 +1,33 @@
+{
+  "Serilog": {
+    "Using": [
+      "Serilog.Sinks.Console"
+    ],
+    "MinimumLevel": {
+      "Default": "Information",
+      "Override": {
+        "Microsoft.Hosting.Lifetime": "Information",
+        "Microsoft": "Warning"
+      }
+    },
+    "WriteTo": {
+      "Console": {
+        "Name": "Console",
+        "Args": {
+          "restrictedToMinimumLevel": "Information"
+        }
+      },
+      "File": {
+        "Name": "File",
+        "Args": {
+          "path": "./logs/Definitions.Development.json",
+          "rollingInterval": "Day",
+          "restrictedToMinimumLevel": "Information"
+        }
+      }
+    },
+    "Properties": {
+      "Application": "Definitions.Api"
+    }
+  }
+}

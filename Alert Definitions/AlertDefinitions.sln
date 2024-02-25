@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertDefinitions.Api", "AlertDefinitions.Api\AlertDefinitions.Api.csproj", "{2D62D3DF-8B29-475A-AACE-93B14203A9D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertDefinitions.Common", "AlertDefinitions.Common\AlertDefinitions.Common.csproj", "{7EE3E272-D639-4DF8-BD25-0DDF71F9524A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertDefinitions.Business", "AlertDefinitions.Business\AlertDefinitions.Business.csproj", "{11D4A318-6827-4E27-A2FC-E56A2E556AC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertDefinitions.Repositories", "AlertDefinitions.Repositories\AlertDefinitions.Repositories.csproj", "{D1CCF63D-7B01-4EE7-824D-0FF648F0BF3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertDefinitions.Models", "AlertDefinitions.Models\AlertDefinitions.Models.csproj", "{A5569C07-191C-4862-AAC5-1414046DE463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertDefinitions.UnitTest", "AlertDefinitions.UnitTest\AlertDefinitions.UnitTest.csproj", "{A2FE0CCA-8A23-47AB-80E9-CC114FD5340F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D62D3DF-8B29-475A-AACE-93B14203A9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D62D3DF-8B29-475A-AACE-93B14203A9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D62D3DF-8B29-475A-AACE-93B14203A9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D62D3DF-8B29-475A-AACE-93B14203A9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE3E272-D639-4DF8-BD25-0DDF71F9524A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE3E272-D639-4DF8-BD25-0DDF71F9524A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE3E272-D639-4DF8-BD25-0DDF71F9524A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE3E272-D639-4DF8-BD25-0DDF71F9524A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D4A318-6827-4E27-A2FC-E56A2E556AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D4A318-6827-4E27-A2FC-E56A2E556AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D4A318-6827-4E27-A2FC-E56A2E556AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D4A318-6827-4E27-A2FC-E56A2E556AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CCF63D-7B01-4EE7-824D-0FF648F0BF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CCF63D-7B01-4EE7-824D-0FF648F0BF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CCF63D-7B01-4EE7-824D-0FF648F0BF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CCF63D-7B01-4EE7-824D-0FF648F0BF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5569C07-191C-4862-AAC5-1414046DE463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5569C07-191C-4862-AAC5-1414046DE463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5569C07-191C-4862-AAC5-1414046DE463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5569C07-191C-4862-AAC5-1414046DE463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FE0CCA-8A23-47AB-80E9-CC114FD5340F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FE0CCA-8A23-47AB-80E9-CC114FD5340F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FE0CCA-8A23-47AB-80E9-CC114FD5340F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FE0CCA-8A23-47AB-80E9-CC114FD5340F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E895558C-905C-4EFF-875F-EDFDA07DC1BA}
+	EndGlobalSection
+EndGlobal

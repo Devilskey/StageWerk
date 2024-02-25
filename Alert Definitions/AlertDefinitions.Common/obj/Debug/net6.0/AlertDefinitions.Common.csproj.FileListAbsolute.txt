@@ -1,0 +1,36 @@
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.deps.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.csproj.AssemblyReference.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.AssemblyInfoInputs.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.AssemblyInfo.cs
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\refint\AlertDefinitions.Common.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Common\obj\Debug\net6.0\ref\AlertDefinitions.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.deps.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.csproj.AssemblyReference.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.AssemblyInfoInputs.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.AssemblyInfo.cs
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.csproj.CoreCompileInputs.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\refint\AlertDefinitions.Common.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\ref\AlertDefinitions.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.deps.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\bin\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.csproj.AssemblyReference.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.AssemblyInfoInputs.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.AssemblyInfo.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\refint\AlertDefinitions.Common.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\AlertDefinitions.Common.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Common\obj\Debug\net6.0\ref\AlertDefinitions.Common.dll

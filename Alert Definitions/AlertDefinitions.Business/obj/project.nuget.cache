@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EgwZK8s8cUDPkd8TMu+czWjZzwZQMcUY2m+fKTopFoLzkpGQcjmDdaLKfRsByh5pbvIpivJhi/RsippRd3/ujg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ecola\\Documents\\gitkraken\\Monitor - AlertDefinition API\\AlertDefinitions.Business\\AlertDefinitions.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecola\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ecola\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

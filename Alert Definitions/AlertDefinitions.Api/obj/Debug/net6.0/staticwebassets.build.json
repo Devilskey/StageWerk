@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uKpAsioHdsqlh85D5Ph0PLAVe0YBrODEvlciFVpWjXc=",
+  "Source": "AlertDefinitions.Api",
+  "BasePath": "_content/AlertDefinitions.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,42 @@
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.deps.json
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.AssemblyReference.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.AssemblyInfoInputs.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.AssemblyInfo.cs
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\refint\AlertDefinitions.Business.dll
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\bhendriks\source\reposDefinitions\AlertDefinitions\AlertDefinitions.Business\obj\Debug\net6.0\ref\AlertDefinitions.Business.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.deps.json
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.AssemblyReference.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.AssemblyInfoInputs.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.AssemblyInfo.cs
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.CoreCompileInputs.cache
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\refint\AlertDefinitions.Business.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\ref\AlertDefinitions.Business.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.deps.json
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.AssemblyReference.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.AssemblyInfoInputs.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.AssemblyInfo.cs
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.CoreCompileInputs.cache
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\refint\AlertDefinitions.Business.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\ref\AlertDefinitions.Business.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Models.dll
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Models.pdb
+C:\Users\bhendriks\OneDrive - KEMBIT\Bureaublad\dotnet researh\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.CopyComplete
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Models.dll
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\bin\Debug\net6.0\AlertDefinitions.Models.pdb
+C:\Users\ecola\Documents\gitkraken\Monitor - AlertDefinition API\AlertDefinitions.Business\obj\Debug\net6.0\AlertDefinitions.Business.csproj.CopyComplete
